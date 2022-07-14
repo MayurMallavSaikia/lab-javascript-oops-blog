@@ -51,10 +51,10 @@ nav ul a {
 	margin-right: 0.8em;
 } */
 
-/* .body-div1, .body-div2 {
+.body-div1, .body-div2 {
 	margin-left: 150px;
 	margin-right: 150px;
-} */
+}
 
 .body-div1 {
 	margin-top: 25px;
@@ -68,7 +68,7 @@ nav ul a {
 
 .article-card {
 	width: 320px;
-	margin: 30rem 0;
+	/* margin: 30rem 0; */
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
